@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  SwiftUILesson01
+
+  Created by 高田 朋輝 on 2021/01/23.
+  
+*/
+
+"button1_name" = "Button 1";
+"button1_log" = "pressed Button 1";
+"button2_name" = "Button 2";
+"button2_alert_title" = "Title";
+"button2_alert_message" = "pressed Button 2";
+"button2_alert_button" = "OK";
+"button2_alert_log_ok" = "pressed OK";
+"button3_name" = "Button 3";
+"button3_action_sheet_title" = "Title";
+"button3_action_sheet_message" = "pressed Button 3";
+"button3_action_sheet_button" = "OK";
+"button3_action_sheet_log_ok" = "pressed OK";
+"button4_name" = "Button 4";
+"button5_name" = "Button 5";
+
+"second_view_text" = "pressed Button 4";
+"second_view_close" = "close";
